@@ -14,4 +14,6 @@ public class DestroyScriptf : MonoBehaviour {
 	
 		CancelInvoke ("Destroy");
 	}
+	//xiugaidaima
+	//修改操作事例
 }
